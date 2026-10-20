@@ -20,10 +20,10 @@ Normal text
 
   [run the project](#run-command)
 
-  [run the command] 'this command'
+  run the command `this command`
 
-  '''bush
-  npm install
-  npm run
-  '''
+```bush
+npm install
+npm run
+```
   
